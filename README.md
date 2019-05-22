@@ -11,8 +11,7 @@ Please type your Chinese name and ID.
 
 **Due date:** 23:59，June, 6th, 2019.
 
-You need to finish an entire machine learning system on provided dataset. You should try to surpass this result.
-
+You need to finish an entire machine learning system on provided dataset.
 *Acknowledgement: KDD CUP 2010*
 
 ## Submission
