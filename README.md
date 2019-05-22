@@ -13,8 +13,6 @@ Please type your Chinese name and ID.
 
 You need to finish an entire machine learning system on provided dataset.
 
-*Acknowledgement: KDD CUP 2010*
-
 ## Submission
 
 There should be three parts in your submission.
