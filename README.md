@@ -38,7 +38,7 @@ We'll only offer a subset of correct answers for test data. To submit your resul
 
 ### Codes
 
-You also need to upload your codes. We'll do duplicate checking for all the submitted codes, so don't copy other people's codes.
+You also need to upload your codes with an introduction file. We'll do duplicate checking for all the submitted codes, so don't copy other people's codes.
 
 *Bonus*: We'll offer additional points for those using PySpark to implement the algorithms.
 
