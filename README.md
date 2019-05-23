@@ -9,7 +9,7 @@ Please type your Chinese name and ID.
 
 *If you are a team, please write names and IDs of both people.*
 
-**Due date:** 23:59，June, 6th, 2019.
+**Due date:** 23:59，June, 9th, 2019.
 
 You need to finish an entire machine learning system on provided dataset.
 
