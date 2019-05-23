@@ -31,7 +31,7 @@ Besides talking about what and how, you also need to explain the reasons why you
 
 ### Answers of the rest in testset
 
-We'll only offer a subset of correct answers for test data. To submit your results, you should complete the missing values of Correct First Attempt in ***test.csv***, which means replace NaN with the value your model predicts. Then you need to submit your completed ***test.csv***. (Don't submit data.csv.)
+We'll only offer a subset of correct answers for test data. To submit your results, you should complete the missing values of Correct First Attempt in ***test.csv***, which means replace NaN with the value your model predicts. Then you need to submit your completed ***test.csv***. (Don't submit train.csv.)
 
 **Note: For those who don't obey our submission rules, we'll give it 0 point. If you have any question about this, post it on Piazza.**
 
