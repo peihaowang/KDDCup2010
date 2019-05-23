@@ -24,6 +24,7 @@ A two-page report to describle the entire pipeline of your work with necessary i
 * What do you do for feature engineering?
 * Which algorithm do you choose? How does it perform?
 * How do you select hyperparameters?
+* Analysis of the results.
 and so on.
 
 Besides talking about what and how, you also need to explain the reasons why you do this. The minimum requirement is that your entire work should be a complete machine learning system.
